@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AddressList</string>
+
+    <string name="empty" >没有记录</string>
+    <string name="add">添加</string>
+
+
+    <string name="xls_name">通讯录</string>
+    <string name="address_name">姓名</string>
+    <string name="address_mobilephone">手机号码</string>
+    <string name="address_workphone">座机</string>
+    <string name="address_job">职位</string>
+</resources>
